@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iptv4usa.com/sitemap.xml

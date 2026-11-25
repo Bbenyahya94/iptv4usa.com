@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" role="img" aria-labelledby="title">
+  <title id="title">US flag in a television screen</title>
+  <defs>
+    <clipPath id="screen"><rect x="12" y="18" width="96" height="62" rx="7"/></clipPath>
+  </defs>
+  <path d="M60 16 38 2M60 16 82 2" fill="none" stroke="#8de7ef" stroke-width="5" stroke-linecap="round"/>
+  <rect x="4" y="12" width="112" height="76" rx="15" fill="#061829" stroke="#76deec" stroke-width="5"/>
+  <g clip-path="url(#screen)">
+    <rect x="12" y="18" width="96" height="62" fill="#fff"/>
+    <path d="M12 20h96m-96 10h96m-96 10h96m-96 10h96m-96 10h96m-96 10h96" stroke="#d8293f" stroke-width="5"/>
+    <rect x="12" y="18" width="43" height="33" fill="#244c91"/>
+    <g fill="#fff">
+      <circle cx="20" cy="25" r="1.8"/><circle cx="32" cy="25" r="1.8"/><circle cx="44" cy="25" r="1.8"/>
+      <circle cx="26" cy="33" r="1.8"/><circle cx="38" cy="33" r="1.8"/><circle cx="50" cy="33" r="1.8"/>
+      <circle cx="20" cy="41" r="1.8"/><circle cx="32" cy="41" r="1.8"/><circle cx="44" cy="41" r="1.8"/>
+    </g>
+  </g>
+  <rect x="12" y="18" width="96" height="62" rx="7" fill="none" stroke="#b7eff6" stroke-width="2"/>
+  <path d="M43 95h34M60 87v8" stroke="#76deec" stroke-width="5" stroke-linecap="round"/>
+</svg>
